@@ -1,2 +1,2 @@
 # alura-plus
-Praticando CSS E HTML NO CURSO
+Praticando CSS E HTML no curso
